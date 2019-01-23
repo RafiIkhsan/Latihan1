@@ -1,6 +1,8 @@
 # Latihan1
 
 LANGKAH LANGKAH AWAL DALAM MENGGUNAKAN GITHUB
+![image](https://user-images.githubusercontent.com/46708621/51579972-7e855980-1ef5-11e9-8b62-523f90eb4b79.png)
+
 Membuat akun pada layanan github
 untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat banyak namun saya menggunakan github, tidak masalah kalau nanti misalnya mau pindah ke layanan lain seperti gitlab seperti yang saya lakukan sekarang, karena saya tetap menggunakan keduanya.
 Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
