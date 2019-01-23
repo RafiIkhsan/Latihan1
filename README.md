@@ -59,6 +59,8 @@ Bentuk kode yang sudah dimasukkan ke GitBash
 
 ![screenshot 18](https://user-images.githubusercontent.com/46708621/51579775-c192fd00-1ef4-11e9-8367-8be81ee90e7d.png)
 
+![screenshot 19](https://user-images.githubusercontent.com/46708621/51579785-d2437300-1ef4-11e9-86ec-3d7b0274905b.png)
+
 
  
 
