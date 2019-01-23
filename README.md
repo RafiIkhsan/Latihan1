@@ -30,6 +30,10 @@ git add .
 git commit -m "first commit" 
 git remote add origin https://github.com/RafiIkhsan/Latihan1.git 
 git push -u origin master
+
+Setelah mengupload tugas hasilnya akan seperti ini
+
+
  
 git init
 untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
