@@ -33,7 +33,7 @@ git push -u origin master
 
 Setelah mengupload tugas hasilnya akan seperti ini
 
-
+![screenshot 20](https://user-images.githubusercontent.com/46708621/51579815-e9826080-1ef4-11e9-8c5f-9a8d16b19dfa.png)
  
 git init
 untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
